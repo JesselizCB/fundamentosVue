@@ -2,16 +2,16 @@
   <v-app>
     <v-app-bar app color="teal" dark class="d-flex justify-center">
       <div class="d-flex align-center">
-        <!-- <h2>TODO APP</h2> -->
-        <h2>INDECISION APP</h2>
+        <h2>TODO APP</h2>
+        <!-- <h2>INDECISION APP</h2> -->
 
       </div>
     </v-app-bar>
 
     <v-main>
       <!-- <Counter/> -->
-      <!-- <Todo /> -->
-      <Indecision></Indecision>
+      <Todo />
+      <!-- <Indecision></Indecision> -->
     </v-main>
   </v-app>
 </template>
